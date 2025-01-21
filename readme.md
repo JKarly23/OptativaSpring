@@ -26,7 +26,7 @@ Para probar los endpoints, puedes usar Postman o cURL.
 1. Clonar el repositorio
    Clona este repositorio a tu máquina local:
 
-git clone https://github.com/JKarly23/optativa-project.git
+git clone https://github.com/JKarly23/OptativaSpring.git
 cd optativa-project
 2. Instalar dependencias
    Este proyecto usa Maven, por lo que las dependencias necesarias se manejarán a través del archivo pom.xml.
